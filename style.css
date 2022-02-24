@@ -1,0 +1,20 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+
+.header{
+    background-color :rgb(20, 225, 123);
+    justify-content:center ;
+    display:flex;
+}
+.grid{
+    display:contents;
+    justify-content:baseline;flex-wrap:nowrap;
+}
+body{
+    background-color: darkorange;
+}
